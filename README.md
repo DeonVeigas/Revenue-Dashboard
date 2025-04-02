@@ -16,6 +16,6 @@ This repository contains a Power BI dashboard that visualizes sales data, includ
   - Product Category Performance
 
 ## 📂 Files Included
-- `dashboard.pbix` - Power BI report file.
-- `dataset.xlsx` - Sample dataset used in the report.
-- `images/` - Screenshots of the dashboard.
+- `SalesDashboard.pbix` - Power BI report file.
+- `dataset.xlsx` - Dataset used in the report.
+- `DashboardFunctionality.mp4` - Video Recording of the dashboard.
