@@ -17,5 +17,5 @@ This repository contains a Power BI dashboard that visualizes sales data, includ
 
 ## 📂 Files Included
 - `SalesDashboard.pbix` - Power BI report file.
-- `dataset.xlsx` - Dataset used in the report.
+- `B&J Buscuit Practice Dataset.xlsx` - Dataset used in the report.
 - `DashboardFunctionality.mp4` - Video Recording of the dashboard.
